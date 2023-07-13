@@ -1,0 +1,38 @@
+h1
+{
+    color: rgb(181, 121, 119);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: 1000;
+    font-style: oblique;
+}
+
+body
+{
+    background-color:rgb(251, 181, 181);
+}
+
+a 
+{
+    text-decoration: none;
+    font-family: monospace;
+    font-size: larger;
+    color: rgb(245, 162, 198);
+    padding: 60px;
+    
+    
+}
+.header
+{
+    width: 100%;
+    background-color: bisque;
+    float: left;
+    height: 30px;
+}
+
+.slider
+{
+    width: 100%;
+    background-color: rgb(178, 103, 33);
+    float: left;
+}
